@@ -1,3 +1,6 @@
+# Temp files and individual .todo files
+/data
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
